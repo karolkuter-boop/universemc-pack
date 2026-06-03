@@ -1,5 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/sodium.pw.toml"
+hash = "d6a17bb2dcfc593d7177e0d6911154b02c4dca84517d1108751db0d9cad222ae"
+metafile = true
+
+[[files]]
 file = "mods/universemc-1.0.0.jar"
-hash = "65e48d9c7996d8273d852a233c1010c35d887b19acdea5c6e9755fb79766e8ab"
+hash = "2a81dac9dda01fe1af61f2c13b15f0d24ac7cfd2bdd63badce2cd187f7e40aae"
+
+[[files]]
+file = "options.txt"
+hash = "0e9f488f6ecca4b3b6f1633ba3f2991212fda13c3bbd420b58103292551fa9b8"

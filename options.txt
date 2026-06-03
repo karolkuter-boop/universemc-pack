@@ -1,0 +1,10 @@
+version:4534
+renderDistance:12
+simulationDistance:10
+maxFps:120
+graphicsMode:1
+guiScale:3
+fov:0.0
+gamma:1.0
+bobView:true
+soundCategory_voice:1.0

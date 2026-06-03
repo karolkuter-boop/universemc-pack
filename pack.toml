@@ -1,0 +1,13 @@
+name = "UniverseMC"
+author = "karolkuter-boop"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "8ca6f2edc21562348f0d5c1b7627d068d88e9e854e104f0d09df0416c26712d7"
+
+[versions]
+minecraft = "26.1.2"
+neoforge = "26.1.2.71"

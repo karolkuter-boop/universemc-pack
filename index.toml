@@ -1,0 +1,5 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/universemc-1.0.0.jar"
+hash = "65e48d9c7996d8273d852a233c1010c35d887b19acdea5c6e9755fb79766e8ab"

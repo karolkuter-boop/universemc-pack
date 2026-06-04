@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "97309de6f87f5e7554fdd276de8c66e65f1e7a82293188695a2b562472924827"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "d6a17bb2dcfc593d7177e0d6911154b02c4dca84517d1108751db0d9cad222ae"
 metafile = true
@@ -12,3 +17,13 @@ hash = "a1e99d1e77605456b86f99ac765128c0041125730fcdfc0664297b80791e9080"
 [[files]]
 file = "options.txt"
 hash = "0e9f488f6ecca4b3b6f1633ba3f2991212fda13c3bbd420b58103292551fa9b8"
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "ea258ed5bf495d9017eeadc3cbf9bd67b1e672d843826bc077135548b5bc699e"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "608b87f75b2387a9fbd340cb18a8238bbbe5a0afc54202634b34f3000246b6e7"
+metafile = true

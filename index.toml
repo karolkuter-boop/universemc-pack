@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/universemc-1.0.0.jar"
-hash = "e56cacd37f272ad6a1b3726a60ea968c573c88e81c83ad0f6c8c40bf4b15f3f8"
+hash = "2928ecdec3d9500fc9c48332aba9376b33ed02213b0a8df596b6826bafce7156"
 
 [[files]]
 file = "options.txt"

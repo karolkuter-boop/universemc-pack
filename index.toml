@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/universemc-1.0.0.jar"
-hash = "948d437554db986f8f343f7628d498284bfb00a67ba47958dae733c3d70ac1f7"
+hash = "6634ec29855ba95cf7afb8fca4435f8580c7f770262962d9009c21dfbec5a0d2"
 
 [[files]]
 file = "mods/worldedit.pw.toml"

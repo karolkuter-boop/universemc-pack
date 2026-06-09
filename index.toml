@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/universemc-1.1.0.jar"
-hash = "cad04a2c672ea5ebee54556847e2a2901da66639a5018583b46e88d5f9258c3d"
+hash = "717f443f997523b9593ac042271f252f96f8901c3c30be9f0a6a06297e60507e"
 
 [[files]]
 file = "mods/worldedit.pw.toml"
@@ -21,7 +21,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "0e9f488f6ecca4b3b6f1633ba3f2991212fda13c3bbd420b58103292551fa9b8"
+hash = "7316b13456c59232f83dfa28d8cc5e2035c67e1a4e47b42f15c8f794c8717a00"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"

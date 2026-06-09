@@ -7,4 +7,6 @@ guiScale:3
 fov:0.0
 gamma:1.0
 bobView:true
+soundCategory_master:0.5
+soundCategory_music:0.0
 soundCategory_voice:1.0

@@ -24,6 +24,10 @@ file = "options.txt"
 hash = "7316b13456c59232f83dfa28d8cc5e2035c67e1a4e47b42f15c8f794c8717a00"
 
 [[files]]
+file = "servers.dat"
+hash = "db06336d399391dc14ff5a9b9eb7f7381f2723b9fab1463b8edec1fbeb117737"
+
+[[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "ea258ed5bf495d9017eeadc3cbf9bd67b1e672d843826bc077135548b5bc699e"
 metafile = true

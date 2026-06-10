@@ -6,8 +6,18 @@ hash = "97309de6f87f5e7554fdd276de8c66e65f1e7a82293188695a2b562472924827"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "d056afb1c8b0847bac23d7902835abf1ccc32f78e4cd4f8f9b7cfa849280f324"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "d6a17bb2dcfc593d7177e0d6911154b02c4dca84517d1108751db0d9cad222ae"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "6683e523f2d6c6618e22bcc8e56f370b34287ce660dd5489eadfaa14e33f6459"
 metafile = true
 
 [[files]]

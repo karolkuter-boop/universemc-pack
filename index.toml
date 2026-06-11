@@ -31,7 +31,7 @@ hash = "b3cc92fc65b4e802b3d688a2f45fc896a4db3fdf63ced34d98d60ed47b03fb2f"
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-hash = "68e417994e9ae2812647ab92a59feb87453c35257f5a86dbbc6eb74d45be827a"
+hash = "94a06a8b641497c208276d75762db8e34bf01837a3e89c5bdc19e4cb9c93f16e"
 metafile = true
 
 [[files]]

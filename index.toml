@@ -26,8 +26,8 @@ hash = "6683e523f2d6c6618e22bcc8e56f370b34287ce660dd5489eadfaa14e33f6459"
 metafile = true
 
 [[files]]
-file = "mods/universemc-1.50.12.jar"
-hash = "24ccce9b1d7162a5fc1ee84b0056258eed1d9dad4af66753934148a00431d1a3"
+file = "mods/universemc-1.50.13.jar"
+hash = "f4b228cef310ce75a7fa18358b8b0bbb8afd3ff62dc2925fbfe646e8e0812dae"
 
 [[files]]
 file = "mods/worldedit.pw.toml"
@@ -36,7 +36,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "5cb065f2351269b7d0c05e578b8b7cee87245619e82d1580af518863af61cd7c"
+hash = "add98e1de949528c94182f84f1cdd4f1ffbdea9ac9c18052c619afbae03be8ac"
 
 [[files]]
 file = "servers.dat"

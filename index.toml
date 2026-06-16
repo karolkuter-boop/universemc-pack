@@ -31,8 +31,8 @@ hash = "6683e523f2d6c6618e22bcc8e56f370b34287ce660dd5489eadfaa14e33f6459"
 metafile = true
 
 [[files]]
-file = "mods/universemc-1.51.09.jar"
-hash = "b233609ab1da1d1c7b9726af3a8aa75e73d8e7edeeba41172b58392bdae9629e"
+file = "mods/universemc-1.51.10.jar"
+hash = "a87203b6f8217c3888cd5ba0ffe9714957b14f10d01d5e99b26f9da7e34a8497"
 
 [[files]]
 file = "mods/worldedit.pw.toml"
@@ -41,7 +41,15 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "add98e1de949528c94182f84f1cdd4f1ffbdea9ac9c18052c619afbae03be8ac"
+hash = "35894a7588b0d88b45a081d73bb1226b1545012f49c59db8279860e181fef884"
+
+[[files]]
+file = "resourcepacks/universemc-overrides/assets/lambdynlights/dynamiclights/item/torch.json"
+hash = "3ad9bda5333a7d7ec967f5dc6772713287a4620b987244df4bc1539318ddb8cc"
+
+[[files]]
+file = "resourcepacks/universemc-overrides/pack.mcmeta"
+hash = "be705cd90de28061fef3a82f126d76f714166723eb8ad6b28339a58c0bf1bfa8"
 
 [[files]]
 file = "servers.dat"

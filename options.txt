@@ -14,3 +14,5 @@ key_key.iris.toggleShaders:key.keyboard.semicolon
 key_key.universemc.crew_voice_mode:key.keyboard.tab
 key_key.playerlist:key.keyboard.unknown
 key_key.voicechat.mute_microphone:key.keyboard.n
+resourcePacks:["file/universemc-overrides"]
+incompatibleResourcePacks:[]

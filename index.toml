@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "0b949a499bcff8dc12f75585fde99495728362e113c03d8426853c84965966be"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "97309de6f87f5e7554fdd276de8c66e65f1e7a82293188695a2b562472924827"
 metafile = true

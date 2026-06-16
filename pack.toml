@@ -1,12 +1,12 @@
 name = "UniverseMC"
 author = "karolkuter-boop"
-version = "1.50.92"
+version = "1.50.93"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e28d4dcee1792834da4a4d7358f1892a7a47b4a27c9f343c2c89176276888ecd"
+hash = "3cf3ba6f90aa2f6b0532e1414ba875fdf9eaedcfbf415a0765efca04768849d9"
 
 [versions]
 minecraft = "26.1.2"

@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/iris-excluded.json"
+hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
+
+[[files]]
+file = "config/iris.properties"
+hash = "0a20ccaab6fe67cde4e787c4b682e28226aac6a99ae91d5228448595e543c39a"
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "0b949a499bcff8dc12f75585fde99495728362e113c03d8426853c84965966be"
 metafile = true
@@ -32,7 +40,7 @@ metafile = true
 
 [[files]]
 file = "mods/universemc-1.51.18.jar"
-hash = "ca68d2959d39aa7ffa401a8d9c96bfebc3e822852afdedafc6afc1fc7774951c"
+hash = "c7aeee01f2fe3d71a9389fb803e11b211f4e92abd7362719ca50fa4aa96a1f73"
 
 [[files]]
 file = "mods/worldedit.pw.toml"
@@ -54,6 +62,14 @@ hash = "be705cd90de28061fef3a82f126d76f714166723eb8ad6b28339a58c0bf1bfa8"
 [[files]]
 file = "servers.dat"
 hash = "db06336d399391dc14ff5a9b9eb7f7381f2723b9fab1463b8edec1fbeb117737"
+
+[[files]]
+file = "shaderpacks/MCVHSV2DLRV.zip"
+hash = "44ea258d32372a963151549fbd7a3b4b8aec2a5cbbd79cd945f2abb6b6aedfcf"
+
+[[files]]
+file = "shaderpacks/MCVHSV2DLRV.zip.txt"
+hash = "b23698f74bf51dfae034b9875b4d772434e574b748b4c1f25d3f15a84018198a"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"

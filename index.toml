@@ -6,7 +6,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "0a20ccaab6fe67cde4e787c4b682e28226aac6a99ae91d5228448595e543c39a"
+hash = "e00965e6b6468322bf92c707476b3ed5a5d8985f34c12d9c3042b70b12f72494"
 
 [[files]]
 file = "mods/geckolib.pw.toml"
@@ -69,7 +69,7 @@ hash = "44ea258d32372a963151549fbd7a3b4b8aec2a5cbbd79cd945f2abb6b6aedfcf"
 
 [[files]]
 file = "shaderpacks/MCVHSV2DLRV.zip.txt"
-hash = "b23698f74bf51dfae034b9875b4d772434e574b748b4c1f25d3f15a84018198a"
+hash = "0d85d23e24e190d14d644fbcbb876a98f74f1b01d10886177edaf083e2aef4ff"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"

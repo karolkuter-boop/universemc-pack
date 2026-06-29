@@ -49,8 +49,8 @@ hash = "6683e523f2d6c6618e22bcc8e56f370b34287ce660dd5489eadfaa14e33f6459"
 metafile = true
 
 [[files]]
-file = "mods/universemc-1.51.76.jar"
-hash = "b6f8a0dbc915c821d113a6bc887334c0bde8cf53c642b0d1fe9d8f21a07632c5"
+file = "mods/universemc-1.51.77.jar"
+hash = "8266c9fe6109d90e3c0e67ad947b3bc448120ffd97735c625052c5c0db2d5a74"
 
 [[files]]
 file = "mods/worldedit.pw.toml"

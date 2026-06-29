@@ -19,8 +19,18 @@ hash = "97309de6f87f5e7554fdd276de8c66e65f1e7a82293188695a2b562472924827"
 metafile = true
 
 [[files]]
+file = "mods/khazodacore.pw.toml"
+hash = "77de30b40ff9bc01f7c66ad6fd868147fb7473d938fb16b2ed1a57a5272a2847"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "0e5168a4f2934ca0aaaeab725b5b0f1dd3207e9f606eedf30c564888bd330377"
+metafile = true
+
+[[files]]
+file = "mods/plushables.pw.toml"
+hash = "e0147939af25e907a1ec32badf46cfdb04e04fcea63862a150c1d4389dcfb263"
 metafile = true
 
 [[files]]
@@ -39,8 +49,8 @@ hash = "6683e523f2d6c6618e22bcc8e56f370b34287ce660dd5489eadfaa14e33f6459"
 metafile = true
 
 [[files]]
-file = "mods/universemc-1.51.68.jar"
-hash = "e590e17ddfe54791733d82eafe5e12b21d624dc7d02cea77cf733cfb91fba0db"
+file = "mods/universemc-1.51.69.jar"
+hash = "cc9dcf143e42ccda884e3c9dd65fc7644754b96db853cc06529e354b7ec15ff6"
 
 [[files]]
 file = "mods/worldedit.pw.toml"

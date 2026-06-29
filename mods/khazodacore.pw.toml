@@ -1,0 +1,13 @@
+name = "KhazodaCore"
+filename = "khazodacore-neoforge-1.0.2+26.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/336usnuE/versions/WnD8QMsA/khazodacore-neoforge-1.0.2%2B26.1.jar"
+hash-format = "sha512"
+hash = "808cfaa9787b95d578f470ddee35fa40840aaf8dafebd936555b7f6806e46d4e60923c5df19a7c0aca789ff3cd37126e455b3cb50ea6c45ddc464a7d061700a9"
+
+[update]
+[update.modrinth]
+mod-id = "336usnuE"
+version = "WnD8QMsA"

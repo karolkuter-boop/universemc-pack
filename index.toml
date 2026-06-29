@@ -44,11 +44,6 @@ hash = "d6a17bb2dcfc593d7177e0d6911154b02c4dca84517d1108751db0d9cad222ae"
 metafile = true
 
 [[files]]
-file = "mods/sound-physics-remastered.pw.toml"
-hash = "6683e523f2d6c6618e22bcc8e56f370b34287ce660dd5489eadfaa14e33f6459"
-metafile = true
-
-[[files]]
 file = "mods/universemc-1.51.80.jar"
 hash = "b9b3381b5508b40693fc73016d167f3deb4cce41e172007f905c80becc81ca17"
 

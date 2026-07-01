@@ -62,12 +62,76 @@ file = "options.txt"
 hash = "35894a7588b0d88b45a081d73bb1226b1545012f49c59db8279860e181fef884"
 
 [[files]]
+file = "resourcepacks/universemc-overrides/assets/jeg/textures/animated/gun/assault_rifle.png"
+hash = "410602756d79cb54bacd3584a16a83c4af9f73469f39f354458b88e6a158d633"
+
+[[files]]
+file = "resourcepacks/universemc-overrides/assets/jeg/textures/animated/gun/bolt_action_rifle.png"
+hash = "cadaa28bcf0a5348597b38248b8102fd4b0608915a0a8796f945438cc04b7218"
+
+[[files]]
+file = "resourcepacks/universemc-overrides/assets/jeg/textures/animated/gun/minigun.png"
+hash = "3a559870c1282f2d0fed4122398f78bbe320bbcb7f3e73e44fac96321861b453"
+
+[[files]]
+file = "resourcepacks/universemc-overrides/assets/jeg/textures/animated/gun/pump_shotgun.png"
+hash = "fbe8e9a2accb69f1b00b5ee076e480f9a069a9453eff637069ce8565f6cb6192"
+
+[[files]]
+file = "resourcepacks/universemc-overrides/assets/jeg/textures/animated/gun/revolver.png"
+hash = "27748bba64508d14430e0e0b252e689ad2855e45971d46613f7cf788720f76d8"
+
+[[files]]
+file = "resourcepacks/universemc-overrides/assets/jeg/textures/animated/gun/semi_auto_pistol.png"
+hash = "7e1d06ed722572c5b3f7c8ac36b590be5b4ffb8abad35e5c2a70fe679d8ac013"
+
+[[files]]
+file = "resourcepacks/universemc-overrides/assets/jeg/textures/animated/gun/typhoonee.png"
+hash = "3e5da0ff9db5211a8a86c61ed273092aae504296563bc8cd94f6009d4465b634"
+
+[[files]]
+file = "resourcepacks/universemc-overrides/assets/jeg/textures/item/assault_rifle.png"
+hash = "68fde0cb8802791f2a9f0378028b7efe09eb633d4048ca6c54dd19018f011043"
+
+[[files]]
+file = "resourcepacks/universemc-overrides/assets/jeg/textures/item/bolt_action_rifle.png"
+hash = "1e0b51076b7391fb34048a9bf70343f29d0c3c9f0504d90728addd7e365ca422"
+
+[[files]]
+file = "resourcepacks/universemc-overrides/assets/jeg/textures/item/gun/bolt_action_rifle.png"
+hash = "1e0b51076b7391fb34048a9bf70343f29d0c3c9f0504d90728addd7e365ca422"
+
+[[files]]
+file = "resourcepacks/universemc-overrides/assets/jeg/textures/item/gun/pump_shotgun.png"
+hash = "70e53785035cac135cf685b6a4256240effbe23050e901ab89290dd9190f2b78"
+
+[[files]]
+file = "resourcepacks/universemc-overrides/assets/jeg/textures/item/minigun.png"
+hash = "3a559870c1282f2d0fed4122398f78bbe320bbcb7f3e73e44fac96321861b453"
+
+[[files]]
+file = "resourcepacks/universemc-overrides/assets/jeg/textures/item/pump_shotgun.png"
+hash = "70e53785035cac135cf685b6a4256240effbe23050e901ab89290dd9190f2b78"
+
+[[files]]
+file = "resourcepacks/universemc-overrides/assets/jeg/textures/item/revolver.png"
+hash = "59ca72235193fae89d81128b8d82e62aef35b85f74a863eb85bf5645ed949064"
+
+[[files]]
+file = "resourcepacks/universemc-overrides/assets/jeg/textures/item/semi_auto_pistol.png"
+hash = "5f7e7559ea15062d67427dc858289f865ec4265ead917d7c175d8de1449cf287"
+
+[[files]]
+file = "resourcepacks/universemc-overrides/assets/jeg/textures/item/typhoonee.png"
+hash = "3e5da0ff9db5211a8a86c61ed273092aae504296563bc8cd94f6009d4465b634"
+
+[[files]]
 file = "resourcepacks/universemc-overrides/assets/lambdynlights/dynamiclights/item/torch.json"
 hash = "3ad9bda5333a7d7ec967f5dc6772713287a4620b987244df4bc1539318ddb8cc"
 
 [[files]]
 file = "resourcepacks/universemc-overrides/pack.mcmeta"
-hash = "be705cd90de28061fef3a82f126d76f714166723eb8ad6b28339a58c0bf1bfa8"
+hash = "65fa52d34014757b57a6360b30a56c3dc41f50cda864a5c3d18debec1612cf01"
 
 [[files]]
 file = "servers.dat"

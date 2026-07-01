@@ -130,6 +130,38 @@ file = "resourcepacks/universemc-overrides/assets/lambdynlights/dynamiclights/it
 hash = "3ad9bda5333a7d7ec967f5dc6772713287a4620b987244df4bc1539318ddb8cc"
 
 [[files]]
+file = "resourcepacks/universemc-overrides/assets/minecraft/textures/environment/celestial/moon/first_quarter.png"
+hash = "f85a6f238b2e10d613173524b59f01fcd42cdd86dd1e52354b1c41fa631f3230"
+
+[[files]]
+file = "resourcepacks/universemc-overrides/assets/minecraft/textures/environment/celestial/moon/full_moon.png"
+hash = "090c2fe2d148434eb87987f4a92cce569f154c5c471d4ac9079703aa945dc072"
+
+[[files]]
+file = "resourcepacks/universemc-overrides/assets/minecraft/textures/environment/celestial/moon/new_moon.png"
+hash = "0e3ebada088a2a34973cdac8f87307371a21dff29793135b63692ed465e145e1"
+
+[[files]]
+file = "resourcepacks/universemc-overrides/assets/minecraft/textures/environment/celestial/moon/third_quarter.png"
+hash = "430d5a877a0cc581e1c8f2de02e47ba9a6ac79a70b8418956f04a8966478d28b"
+
+[[files]]
+file = "resourcepacks/universemc-overrides/assets/minecraft/textures/environment/celestial/moon/waning_crescent.png"
+hash = "2a55c132aa50837b09012a53d45dd06f821e16f66e2fba7f45340615bfcb1a92"
+
+[[files]]
+file = "resourcepacks/universemc-overrides/assets/minecraft/textures/environment/celestial/moon/waning_gibbous.png"
+hash = "81e029c9067b9c6cd82b81aa806badefd5855fa12e9206f0baae93dd054f9e71"
+
+[[files]]
+file = "resourcepacks/universemc-overrides/assets/minecraft/textures/environment/celestial/moon/waxing_crescent.png"
+hash = "6ddaabdfe8d717a8068037110ab187bb58ab8c5f5f05f4c52b0da9a14e3fca56"
+
+[[files]]
+file = "resourcepacks/universemc-overrides/assets/minecraft/textures/environment/celestial/moon/waxing_gibbous.png"
+hash = "30a5faf4033e50a90a2878943dfcf4cc66c8feff3fe92c17dc8c7e7a30e9e845"
+
+[[files]]
 file = "resourcepacks/universemc-overrides/pack.mcmeta"
 hash = "65fa52d34014757b57a6360b30a56c3dc41f50cda864a5c3d18debec1612cf01"
 

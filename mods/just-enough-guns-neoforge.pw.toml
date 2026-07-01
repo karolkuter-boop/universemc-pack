@@ -1,0 +1,13 @@
+name = "Just Enough Guns New(unofficial port)"
+filename = "jegn-1.7.2+neoforge26.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dxTydNDF/versions/XNTrMHVZ/jegn-1.7.2%2Bneoforge26.1.jar"
+hash-format = "sha512"
+hash = "f28bc77e7e96260a174e762490e18119121c5611836d182a8b34bfc72a1c21f4f167a991649cb61c949f1df92976736d93f48b995b8bcd21f36f16408ff54ef8"
+
+[update]
+[update.modrinth]
+mod-id = "dxTydNDF"
+version = "XNTrMHVZ"

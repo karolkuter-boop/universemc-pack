@@ -19,6 +19,11 @@ hash = "97309de6f87f5e7554fdd276de8c66e65f1e7a82293188695a2b562472924827"
 metafile = true
 
 [[files]]
+file = "mods/just-enough-guns-neoforge.pw.toml"
+hash = "d163c6785399c2d88e9f55110b2ce55f0e0ed500a6a20e7ec0b41f72eac72b78"
+metafile = true
+
+[[files]]
 file = "mods/khazodacore.pw.toml"
 hash = "77de30b40ff9bc01f7c66ad6fd868147fb7473d938fb16b2ed1a57a5272a2847"
 metafile = true
@@ -44,8 +49,8 @@ hash = "d6a17bb2dcfc593d7177e0d6911154b02c4dca84517d1108751db0d9cad222ae"
 metafile = true
 
 [[files]]
-file = "mods/universemc-1.51.98.jar"
-hash = "6756d80ee517449f2c5be2aa88594a98bc5b78327c322a442290f63bf8bb5528"
+file = "mods/universemc-1.51.99.jar"
+hash = "fbf0be3eabd75fb1402e9d4ce0c30253322cd43e9449d494750b94f64b681782"
 
 [[files]]
 file = "mods/worldedit.pw.toml"

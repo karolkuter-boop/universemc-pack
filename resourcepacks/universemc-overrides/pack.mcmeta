@@ -1,8 +1,7 @@
 {
   "pack": {
-    "description": "UniverseMC — torch=Latarka (LambDynamicLights) + Bronie z Kazdego Bloku (JEG gun retexture)",
-    "pack_format": 84,
-    "min_format": [84, 0],
-    "max_format": [84, 0]
+    "description": "UniverseMC Overrides - JEG gun retexture + moon crumble + torch",
+    "max_format": 101,
+    "min_format": 101
   }
 }

@@ -59,8 +59,8 @@ hash = "d6a17bb2dcfc593d7177e0d6911154b02c4dca84517d1108751db0d9cad222ae"
 metafile = true
 
 [[files]]
-file = "mods/universemc-1.56.4.jar"
-hash = "33866b291a90e9c0567fc369ca95f35e0f627edae0fc2a76d80e222a62928ca2"
+file = "mods/universemc-1.56.5.jar"
+hash = "1d18493c94ef071b71602149577d8588c4cf1dbfbbb03e1e17c48226fb359c25"
 
 [[files]]
 file = "mods/worldedit.pw.toml"
@@ -173,7 +173,7 @@ hash = "30a5faf4033e50a90a2878943dfcf4cc66c8feff3fe92c17dc8c7e7a30e9e845"
 
 [[files]]
 file = "resourcepacks/universemc-overrides/pack.mcmeta"
-hash = "65fa52d34014757b57a6360b30a56c3dc41f50cda864a5c3d18debec1612cf01"
+hash = "dcf8068f0ecd91aa478e9f2e9436973603ded7477be43fc53c4a24f654682018"
 
 [[files]]
 file = "servers.dat"

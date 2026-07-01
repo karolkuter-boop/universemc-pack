@@ -34,8 +34,18 @@ hash = "0e5168a4f2934ca0aaaeab725b5b0f1dd3207e9f606eedf30c564888bd330377"
 metafile = true
 
 [[files]]
+file = "mods/mutant-monsters.pw.toml"
+hash = "09f45a8622e7b27e5aa7cb1d7947b66c5bb00721ce778398b998ae4c689ad3c1"
+metafile = true
+
+[[files]]
 file = "mods/plushables.pw.toml"
 hash = "e0147939af25e907a1ec32badf46cfdb04e04fcea63862a150c1d4389dcfb263"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "f5d0664194b1659f7482d7a6051f1e65f410d2f66747fd76dac3c7e0fab12168"
 metafile = true
 
 [[files]]
@@ -49,8 +59,8 @@ hash = "d6a17bb2dcfc593d7177e0d6911154b02c4dca84517d1108751db0d9cad222ae"
 metafile = true
 
 [[files]]
-file = "mods/universemc-1.54.0.jar"
-hash = "6f9a0511f1b7ac17f8bd87f4e343e41debaefdad1381d5317be2e7bdaff50bd8"
+file = "mods/universemc-1.55.0.jar"
+hash = "668f068ec527abf2be46011dba59987716b9372e86c62ab00e2857d0948c91c7"
 
 [[files]]
 file = "mods/worldedit.pw.toml"

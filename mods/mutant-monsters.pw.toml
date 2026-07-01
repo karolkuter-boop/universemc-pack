@@ -1,0 +1,13 @@
+name = "Mutant Monsters"
+filename = "MutantMonsters-v26.1.1-mc26.1.x-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/derP0ten/versions/QyahuaV5/MutantMonsters-v26.1.1-mc26.1.x-NeoForge.jar"
+hash-format = "sha512"
+hash = "76223d73c317dca466e12b43c755c96edd070c54bb815119905efa2b8e716e4bedda9411e805e5dfabbf4f624661a18138ebdc60e053620b16dd5aa93c7894d2"
+
+[update]
+[update.modrinth]
+mod-id = "derP0ten"
+version = "QyahuaV5"

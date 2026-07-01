@@ -59,8 +59,8 @@ hash = "d6a17bb2dcfc593d7177e0d6911154b02c4dca84517d1108751db0d9cad222ae"
 metafile = true
 
 [[files]]
-file = "mods/universemc-1.56.10.jar"
-hash = "cac6705023cb66d4351f7873e9a900d3ad5295f7ab7c4a230c7a8d078c55b80f"
+file = "mods/universemc-1.56.11.jar"
+hash = "a3c11f77676fc655b2d23485b35fa354b7ac75af7c19cf19b9bcf25009f45d0a"
 
 [[files]]
 file = "mods/worldedit.pw.toml"
@@ -73,7 +73,7 @@ hash = "35894a7588b0d88b45a081d73bb1226b1545012f49c59db8279860e181fef884"
 
 [[files]]
 file = "resourcepacks/universemc-overrides/assets/jeg/models/item/first_person/typhoonee.json"
-hash = "e60b2d6e3ad0a13f7eb0bf774541899df57125d908667b1f974ea0fafab4ce4a"
+hash = "0c645b653915c1d08eca271815461d7de17c6616f15e68ee27bbc0ed2e06bd11"
 
 [[files]]
 file = "resourcepacks/universemc-overrides/assets/jeg/textures/animated/gun/assault_rifle.png"

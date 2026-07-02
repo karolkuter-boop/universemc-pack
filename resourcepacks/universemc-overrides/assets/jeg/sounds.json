@@ -1,0 +1,8 @@
+{
+  "item.minigun.fire": {
+    "replace": true,
+    "sounds": [
+      { "name": "jeg:item/minigun/fire" }
+    ]
+  }
+}

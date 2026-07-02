@@ -59,8 +59,8 @@ hash = "d6a17bb2dcfc593d7177e0d6911154b02c4dca84517d1108751db0d9cad222ae"
 metafile = true
 
 [[files]]
-file = "mods/universemc-1.56.11.jar"
-hash = "a3c11f77676fc655b2d23485b35fa354b7ac75af7c19cf19b9bcf25009f45d0a"
+file = "mods/universemc-1.56.12.jar"
+hash = "ee9a2305904a64fabc632d3bdd0db113bb2a55558b13d83bb1c34550f08f6dc6"
 
 [[files]]
 file = "mods/worldedit.pw.toml"
@@ -74,6 +74,38 @@ hash = "35894a7588b0d88b45a081d73bb1226b1545012f49c59db8279860e181fef884"
 [[files]]
 file = "resourcepacks/universemc-overrides/assets/jeg/models/item/first_person/typhoonee.json"
 hash = "0c645b653915c1d08eca271815461d7de17c6616f15e68ee27bbc0ed2e06bd11"
+
+[[files]]
+file = "resourcepacks/universemc-overrides/assets/jeg/sounds.json"
+hash = "920605ebc47baa5744bcf48c4bf2daca9d722a02468272b48d7b91578e63e9d9"
+
+[[files]]
+file = "resourcepacks/universemc-overrides/assets/jeg/sounds/item/assault_rifle/fire.ogg"
+hash = "bcb71053b0a929690d377d26190be27513487b46ed6842faf5718ae5fb241a7d"
+
+[[files]]
+file = "resourcepacks/universemc-overrides/assets/jeg/sounds/item/bolt_action_rifle/fire.ogg"
+hash = "d4403e5daf5079dee5f9457314b4f7cfa79e3a330ac26f51aa832242b0d000e5"
+
+[[files]]
+file = "resourcepacks/universemc-overrides/assets/jeg/sounds/item/minigun/fire.ogg"
+hash = "d4403e5daf5079dee5f9457314b4f7cfa79e3a330ac26f51aa832242b0d000e5"
+
+[[files]]
+file = "resourcepacks/universemc-overrides/assets/jeg/sounds/item/pump_shotgun/fire.ogg"
+hash = "d4403e5daf5079dee5f9457314b4f7cfa79e3a330ac26f51aa832242b0d000e5"
+
+[[files]]
+file = "resourcepacks/universemc-overrides/assets/jeg/sounds/item/revolver/fire.ogg"
+hash = "bcb71053b0a929690d377d26190be27513487b46ed6842faf5718ae5fb241a7d"
+
+[[files]]
+file = "resourcepacks/universemc-overrides/assets/jeg/sounds/item/semi_auto_pistol/fire.ogg"
+hash = "592dcd41d926e620a4d763743c54dd7012ef9bef0e21eea7e92eea330177edbb"
+
+[[files]]
+file = "resourcepacks/universemc-overrides/assets/jeg/sounds/item/typhoonee/fire.ogg"
+hash = "592dcd41d926e620a4d763743c54dd7012ef9bef0e21eea7e92eea330177edbb"
 
 [[files]]
 file = "resourcepacks/universemc-overrides/assets/jeg/textures/animated/gun/assault_rifle.png"

@@ -59,8 +59,8 @@ hash = "d6a17bb2dcfc593d7177e0d6911154b02c4dca84517d1108751db0d9cad222ae"
 metafile = true
 
 [[files]]
-file = "mods/universemc-1.56.12.jar"
-hash = "ee9a2305904a64fabc632d3bdd0db113bb2a55558b13d83bb1c34550f08f6dc6"
+file = "mods/universemc-1.56.13.jar"
+hash = "41895215431cbd8fe44a8f76978fb27ab276ea8ff18d82a713a26451f2dfb95c"
 
 [[files]]
 file = "mods/worldedit.pw.toml"
@@ -81,31 +81,35 @@ hash = "920605ebc47baa5744bcf48c4bf2daca9d722a02468272b48d7b91578e63e9d9"
 
 [[files]]
 file = "resourcepacks/universemc-overrides/assets/jeg/sounds/item/assault_rifle/fire.ogg"
-hash = "bcb71053b0a929690d377d26190be27513487b46ed6842faf5718ae5fb241a7d"
+hash = "2e504772803e2d748595d68d5c7b73800a009b87b6b30afd2b36dd2ce9d8b6c5"
 
 [[files]]
 file = "resourcepacks/universemc-overrides/assets/jeg/sounds/item/bolt_action_rifle/fire.ogg"
-hash = "d4403e5daf5079dee5f9457314b4f7cfa79e3a330ac26f51aa832242b0d000e5"
+hash = "3ac2784d5363e6ef9474978ce66efa34f3d9e3ecf0726fc911f06f76cbb0fc23"
+
+[[files]]
+file = "resourcepacks/universemc-overrides/assets/jeg/sounds/item/light_machine_gun/fire.ogg"
+hash = "3ac2784d5363e6ef9474978ce66efa34f3d9e3ecf0726fc911f06f76cbb0fc23"
 
 [[files]]
 file = "resourcepacks/universemc-overrides/assets/jeg/sounds/item/minigun/fire.ogg"
-hash = "d4403e5daf5079dee5f9457314b4f7cfa79e3a330ac26f51aa832242b0d000e5"
+hash = "3ac2784d5363e6ef9474978ce66efa34f3d9e3ecf0726fc911f06f76cbb0fc23"
 
 [[files]]
 file = "resourcepacks/universemc-overrides/assets/jeg/sounds/item/pump_shotgun/fire.ogg"
-hash = "d4403e5daf5079dee5f9457314b4f7cfa79e3a330ac26f51aa832242b0d000e5"
+hash = "3ac2784d5363e6ef9474978ce66efa34f3d9e3ecf0726fc911f06f76cbb0fc23"
 
 [[files]]
 file = "resourcepacks/universemc-overrides/assets/jeg/sounds/item/revolver/fire.ogg"
-hash = "bcb71053b0a929690d377d26190be27513487b46ed6842faf5718ae5fb241a7d"
+hash = "2e504772803e2d748595d68d5c7b73800a009b87b6b30afd2b36dd2ce9d8b6c5"
 
 [[files]]
 file = "resourcepacks/universemc-overrides/assets/jeg/sounds/item/semi_auto_pistol/fire.ogg"
-hash = "592dcd41d926e620a4d763743c54dd7012ef9bef0e21eea7e92eea330177edbb"
+hash = "ee11db56f2aa9b42183225fb7e8888e75f23a2e2bda0a1d0d4d504af2feb8b5e"
 
 [[files]]
 file = "resourcepacks/universemc-overrides/assets/jeg/sounds/item/typhoonee/fire.ogg"
-hash = "592dcd41d926e620a4d763743c54dd7012ef9bef0e21eea7e92eea330177edbb"
+hash = "ee11db56f2aa9b42183225fb7e8888e75f23a2e2bda0a1d0d4d504af2feb8b5e"
 
 [[files]]
 file = "resourcepacks/universemc-overrides/assets/jeg/textures/animated/gun/assault_rifle.png"

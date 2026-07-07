@@ -1,0 +1,13 @@
+name = "Meccha Crafteleon"
+filename = "meccha_chameleon-neoforge-26.1.2-1.0.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "21d9d5496a9c2dd006cdd5064b25a1fccef7baf4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8383470
+project-id = 1592195

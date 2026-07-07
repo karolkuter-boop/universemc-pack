@@ -34,6 +34,11 @@ hash = "0e5168a4f2934ca0aaaeab725b5b0f1dd3207e9f606eedf30c564888bd330377"
 metafile = true
 
 [[files]]
+file = "mods/meccha-crafteleon.pw.toml"
+hash = "2afa5299340c307c00e183d28a2789d1a66de5bf3e44ceff07bebeee65bdab3c"
+metafile = true
+
+[[files]]
 file = "mods/mutant-monsters.pw.toml"
 hash = "09f45a8622e7b27e5aa7cb1d7947b66c5bb00721ce778398b998ae4c689ad3c1"
 metafile = true
@@ -59,8 +64,8 @@ hash = "d6a17bb2dcfc593d7177e0d6911154b02c4dca84517d1108751db0d9cad222ae"
 metafile = true
 
 [[files]]
-file = "mods/universemc-1.56.14.jar"
-hash = "eaaaab3f0f4beea94ff121ca059cfe552bd3abfcc1a74c3b50516f225fc685ea"
+file = "mods/universemc-1.56.16.jar"
+hash = "aa19f3d48bedcb494a39cedb94a0888453e0824362680c4328f147792e50e23f"
 
 [[files]]
 file = "mods/worldedit.pw.toml"

@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "UniverseMC-AutoUpdate.zip"
-hash = "2a934ed4e23ea94e73bb441f445a05c1f444b9a2420f37b6b32a4fc4952144c1"
-
-[[files]]
 file = "config/iris-excluded.json"
 hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
@@ -68,8 +64,8 @@ hash = "d6a17bb2dcfc593d7177e0d6911154b02c4dca84517d1108751db0d9cad222ae"
 metafile = true
 
 [[files]]
-file = "mods/universemc-1.56.18.jar"
-hash = "db20a582b68e745b3a2320d3178d97403c223d01352df8553e35f171957ceeca"
+file = "mods/universemc-1.56.20.jar"
+hash = "4bd0fa93faddc2b2d7873f91393d4df627575d9d5f4a63a5da081919a9f0e064"
 
 [[files]]
 file = "mods/worldedit.pw.toml"
